@@ -53,8 +53,7 @@ DATA COLLECTION & CONFIGURATION
 [powershell://windows_firewall_status_check]
 disabled = 0
 ```
-
-
+NOTE: Data will be collected in the 'windows' index by default, so ensure that index is created before enabling the input.
 
 UNINSTALL ADD-ON
 -------------
