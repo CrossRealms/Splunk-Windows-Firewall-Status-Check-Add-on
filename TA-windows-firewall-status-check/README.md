@@ -10,13 +10,17 @@ The Windows Firewall Status Check Add-on for Splunk allows users to check their 
 
 Install the Cyences App for Splunk (https://splunkbase.splunk.com/app/5351/) to get alerts and dashboards related to the data collected by this Add-on.
 
-
 * Author - CrossRealms International Inc.
 * Creates Index - False
 * Compatible with:
    * Splunk Enterprise version: 9.0.x, 8.2.x
    * OS: Platform Independent
    * Browser: Does not have UI.
+
+
+## What's inside the App
+
+* No of Custom Inputs: **1**
 
 
 
@@ -89,8 +93,3 @@ SUPPORT
   * US: +1-312-2784445
 * License Agreement - https://d38o4gzaohghws.cloudfront.net/static/misc/eula.html
 * Copyright - Copyright CrossRealms Internationals, 2023
-# What's inside the App
-
-* No of Custom Inputs: **1**
-
-
