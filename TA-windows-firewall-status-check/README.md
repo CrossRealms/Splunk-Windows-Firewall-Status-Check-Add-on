@@ -1,7 +1,7 @@
 # Windows Firewall Status Check Add-on for Splunk
 
 ### Download from Splunkbase
-TODO
+https://splunkbase.splunk.com/app/7012
 
 
 OVERVIEW
